@@ -65,4 +65,4 @@ weboomer()
 time.sleep(2)
 
 while True:
-	webbrowser.open('https://www.facebook.com/vikabeat/videos/1709474075733262/')
+	webbrowser.open('https://youtu.be/ONgjCrzwaBw?si=gtNK_COgYcBvj0VP&t=19')
